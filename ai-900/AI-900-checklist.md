@@ -43,3 +43,9 @@ Tip: Generative aI has increased weight recently. Study Azure OpenAI, LLM basics
 - [ ] Generative AI: Azure OpenAI (models, prompts, filters).
 - [ ] Azure Machine Learning (AutoML, endpoints; difference vs ready-made services).
 - [ ] Practice test + error review.
+
+## Daily structure (45-60 min, 6 days/week)
+
+1. Warm-up (5min) - Shadow this:
+
+"Azure AI services solve common AI tasks. Vision reads images; Language understands text; Speech handles audio; Azure OpenAI generates content; and Azure ML train custom models."
