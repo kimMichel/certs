@@ -37,7 +37,7 @@ Tip: Generative aI has increased weight recently. Study Azure OpenAI, LLM basics
 ## Checklist
 
 - [x] AI/ML concepts + Responsible AI; scenario -> service mapping (use the quick reference table).
-- [ ] Azure AI Vision (classification vs detection; OCR; use cases).
+- [x] Azure AI Vision (classification vs detection; OCR; use cases).
 - [ ] Azure AI Language (sentiment, entitites, PII, summarization; QnA).
 - [ ] Azure AI Speech (STT/TTS/Translation; when to customize).
 - [ ] Generative AI: Azure OpenAI (models, prompts, filters).
