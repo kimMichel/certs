@@ -41,7 +41,7 @@ Tip: Generative aI has increased weight recently. Study Azure OpenAI, LLM basics
 - [x] Azure AI Language (sentiment, entitites, PII, summarization; QnA).
 - [x] Azure AI Speech (STT/TTS/Translation; when to customize).
 - [x] Generative AI: Azure OpenAI (models, prompts, filters).
-- [ ] Azure Machine Learning (AutoML, endpoints; difference vs ready-made services).
+- [x] Azure Machine Learning (AutoML, endpoints; difference vs ready-made services).
 - [ ] Practice test + error review.
 
 ## Daily structure (45-60 min, 6 days/week)
